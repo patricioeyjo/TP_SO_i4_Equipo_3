@@ -2,3 +2,36 @@ A- Blanco
 B- Blanco
 C- Blanco
 D- Qudaron 2 favicon en el master
+E- No
+F- Tuvimos problemas con el merge cuando habia que mover Desarrollo al master
+G- Tuvimos que hacer una serie de comandos
+  127  git checkout master
+  128  git checkout master
+  129  git pull
+  130  git checkout DESARROLLO
+  131  git merge master
+  132  git status
+  133  git add .
+  134  git status
+  135  git merge master
+  136  git commit -m "10"
+  137  git merge master
+  138  git status
+  139  git pull
+  140  git merge master
+  141  git add/rm .
+  142  git add .
+  143  git status
+  144  git push
+  145  git pull
+  146  git commit -m "Parte 10"
+  147  git pull
+  148  git merge master
+  149  git push
+  150  git pull
+  151  git merge master
+  152  git status
+  153  git merge master
+  154  git push
+H- Al usar el comando sale "Everything up-to-date" muestra lo mismo que cuando usabamos el pull para actualizar los datos
+I- Un merge
